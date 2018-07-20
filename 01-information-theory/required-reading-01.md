@@ -1,4 +1,4 @@
-# Notes of the Chapter 1.6 from Pattern Recognition and Machine Learning / Bishop
+# Notes on Chapter 1.6 from Pattern Recognition and Machine Learning / Bishop
 
 We begin to study Information Theory with a discrete random variable and a question about it.
 
