@@ -14,7 +14,7 @@
 **Required Reading**:
 
 - [x] 1. Chapter 1.6 from Pattern Recognition and Machine Learning / Bishop. (“PRML”)
-- [ ] A good intuitive explanation of Entropy, from Quora.
+- [x] 2. A good intuitive explanation of Entropy, from Quora.
 
 **Optional Reading**:
 
