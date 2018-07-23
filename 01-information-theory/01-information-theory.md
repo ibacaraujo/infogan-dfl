@@ -18,7 +18,7 @@
 
 **Optional Reading**:
 
-- [ ] 1. [Notes on Kullback-Leibler Divergence and Likelihood Theory](https://arxiv.org/pdf/1404.2000.pdf)
+- [x] 1. [Notes on Kullback-Leibler Divergence and Likelihood Theory](https://arxiv.org/pdf/1404.2000.pdf)
 - [ ] 2. For more perspectives and deeper dependencies, see Metacademy:
 - [ ] &nbsp;&nbsp;&nbsp;&nbsp;1. [Entropy](https://metacademy.org/graphs/concepts/entropy)
 - [ ] &nbsp;&nbsp;&nbsp;&nbsp;2. [Mutual Information](https://metacademy.org/graphs/concepts/mutual_information)
