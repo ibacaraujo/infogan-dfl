@@ -20,7 +20,7 @@
 
 - [x] 1. [Notes on Kullback-Leibler Divergence and Likelihood Theory](https://arxiv.org/pdf/1404.2000.pdf)
 - [ ] 2. For more perspectives and deeper dependencies, see Metacademy:
-- [ ] &nbsp;&nbsp;&nbsp;&nbsp;1. [Entropy](https://metacademy.org/graphs/concepts/entropy)
+- [x] &nbsp;&nbsp;&nbsp;&nbsp;1. [Entropy](https://metacademy.org/graphs/concepts/entropy)
 - [ ] &nbsp;&nbsp;&nbsp;&nbsp;2. [Mutual Information](https://metacademy.org/graphs/concepts/mutual_information)
 - [ ] &nbsp;&nbsp;&nbsp;&nbsp;3. [KL diverence](https://metacademy.org/graphs/concepts/kl_divergence)
 - [ ] 3. [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
